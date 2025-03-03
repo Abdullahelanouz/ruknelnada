@@ -1,0 +1,130 @@
+{
+  "SITE": {
+    "TITLE": "Rukn Al-Nada",
+    "TAGLINE": "Professional Home Services"
+  },
+  "NAV": {
+    "HOME": "Home",
+    "SERVICES": "Services",
+    "TESTIMONIALS": "Testimonials",
+    "CONTACT": "Contact Us"
+  },
+  "HERO": {
+    "TITLE": "Professional Home Services",
+    "SUBTITLE": "We provide high-quality services for your home",
+    "CTA": "Our Services"
+  },
+  "SERVICES": {
+    "TITLE": "Our Services",
+    "SUBTITLE": "We offer a wide range of professional home services",
+    "KEY_FEATURES": "Key Features",
+    "OTHER_SERVICES": "Other Services",
+    "ELECTRICITY": {
+      "TITLE": "Electrical Services",
+      "SHORT_DESC": "Professional electrical services for your home",
+      "FULL_DESC": "Our team of certified electricians provides comprehensive electrical services including installation, repair, and maintenance for residential properties. We ensure safety and reliability in all our electrical work.",
+      "FEATURES": [
+        "Electrical installations",
+        "Repair and maintenance",
+        "Emergency services",
+        "Safety inspections",
+        "Lighting solutions"
+      ]
+    },
+    "PLUMBING": {
+      "TITLE": "Plumbing Services",
+      "SHORT_DESC": "Complete plumbing solutions for all needs",
+      "FULL_DESC": "Our plumbing services cover all aspects of home plumbing systems. From fixing leaks to installing new fixtures, our experienced plumbers deliver quality workmanship and reliable solutions.",
+      "FEATURES": [
+        "Pipe installation and repair",
+        "Fixture installation",
+        "Leak detection and repair",
+        "Water heater services",
+        "Bathroom and kitchen plumbing"
+      ]
+    },
+    "PAINTING": {
+      "TITLE": "Painting Services",
+      "SHORT_DESC": "Transform your space with professional painting",
+      "FULL_DESC": "Our painting services help transform your living spaces with high-quality paints and expert application. We offer interior and exterior painting with attention to detail and perfect finishes.",
+      "FEATURES": [
+        "Interior painting",
+        "Exterior painting",
+        "Color consultation",
+        "Surface preparation",
+        "Premium paint products"
+      ]
+    },
+    "DRAIN": {
+      "TITLE": "Drain Cleaning",
+      "SHORT_DESC": "Effective solutions for clogged drains",
+      "FULL_DESC": "Our drain cleaning services address all types of blockages and ensure proper water flow in your drainage systems. We use professional equipment and techniques to resolve even the most stubborn clogs.",
+      "FEATURES": [
+        "Clog removal",
+        "Drain snaking",
+        "Hydro jetting",
+        "Preventive maintenance",
+        "Camera inspection"
+      ]
+    },
+    "CLEANING": {
+      "TITLE": "Cleaning Services",
+      "SHORT_DESC": "Professional cleaning for sofas, carpets, and tanks",
+      "FULL_DESC": "Our specialized cleaning services cover sofas, carpets, and water tanks. We use eco-friendly cleaning products and advanced equipment to ensure thorough cleaning and sanitization.",
+      "FEATURES": [
+        "Deep sofa cleaning",
+        "Carpet cleaning and sanitization",
+        "Water tank cleaning",
+        "Stain removal",
+        "Deodorizing services"
+      ]
+    }
+  },
+  "TESTIMONIALS": {
+    "TITLE": "What Our Clients Say",
+    "SUBTITLE": "Feedback from our satisfied customers"
+  },
+  "CONTACT": {
+    "TITLE": "Contact Us",
+    "SUBTITLE": "Get in touch with our team",
+    "FORM": {
+      "NAME": "Name",
+      "EMAIL": "Email",
+      "PHONE": "Phone",
+      "MESSAGE": "Message",
+      "SUBMIT": "Send"
+    },
+    "INFO": {
+      "TITLE": "Contact Information",
+      "ADDRESS": "Address",
+      "PHONE": "Call Now",
+      "EMAIL": "Email",
+      "WHATSAPP": "Contact via WhatsApp"
+    },
+    "SUCCESS": "Your message has been sent successfully. We will contact you soon.",
+    "ERRORS": {
+      "NAME_REQUIRED": "Please enter your name",
+      "EMAIL_REQUIRED": "Please enter your email",
+      "EMAIL_INVALID": "Please enter a valid email",
+      "PHONE_REQUIRED": "Please enter your phone number",
+      "MESSAGE_REQUIRED": "Please enter your message"
+    }
+  },
+  "FOOTER": {
+    "QUICK_LINKS": "Quick Links",
+    "SERVICES": "Services",
+    "CONTACT_INFO": "Contact Information",
+    "COPYRIGHT": " 2025 Rukn Al-Nada. All rights reserved. Designed and developed by <a href='https://www.facebook.com/abdullahelanouz'>Dr. Abdullah Elanouz</a>"
+  },
+  "EMERGENCY_SERVICE": {
+    "TITLE": "Emergency Service",
+    "SUBTITLE": "Need urgent assistance? Call our emergency service line.",
+    "PHONE": "+971562163835",
+    "CTA": "Call Now"
+  },
+  "REQUEST_SERVICE": {
+    "TITLE": "Request Service",
+    "SUBTITLE": "Contact us to request this service or get more information.",
+    "CTA": "Request Now"
+  }
+}

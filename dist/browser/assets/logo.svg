@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="50" viewBox="0 0 150 50">
+  <defs>
+    <linearGradient id="logo-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4e54c8" />
+      <stop offset="100%" stop-color="#8f94fb" />
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="40" height="40" fill="url(#logo-gradient)" rx="5" />
+  <path d="M25 10 L10 25 L25 40 L40 25 Z" fill="white" />
+  <path d="M25 15 L15 25 L25 35 L35 25 Z" fill="url(#logo-gradient)" />
+  <text x="55" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4e54c8">Rukn Al-Nada</text>
+</svg>
