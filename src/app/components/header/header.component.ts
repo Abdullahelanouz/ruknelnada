@@ -27,7 +27,7 @@ import { TranslationService } from '../../services/translation.service';
             <div class="col-md-6">
               <div class="d-flex align-items-center">
                 <fa-icon [icon]="faPhone" class="me-2"></fa-icon>
-                <span>+971562163835</span>
+                <a style="text-decoration: none; color: white" href="tel:+971562163835">+971562163835</a>
               </div>
             </div>
             <div class="col-md-6">

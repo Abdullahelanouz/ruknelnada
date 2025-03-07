@@ -22,7 +22,7 @@ export class DataService {
     {
       id: 'painting',
       icon: 'paint-roller',
-      imageUrl: 'https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      imageUrl: 'assets/images/wall.jpg',
       translationKey: 'SERVICES.PAINTING'
     },
     {

@@ -83,7 +83,7 @@ import { faMapMarkerAlt, faPhone, faEnvelope } from '@fortawesome/free-solid-svg
                   <fa-icon [icon]="faMapMarkerAlt" class="me-3 mt-1 fs-5"></fa-icon>
                   <div>
                     <h5>{{ 'CONTACT.INFO.ADDRESS' | translate }}</h5>
-                    <p>البدير، إمارة الشارقة، الإمارات العربية المتحدة</p>
+                    <p>الشارقه ,عجمان, دبي, الإمارات العربية المتحدة</p>
                   </div>
                 </div>
                 
@@ -91,7 +91,7 @@ import { faMapMarkerAlt, faPhone, faEnvelope } from '@fortawesome/free-solid-svg
                   <fa-icon [icon]="faPhone" class="me-3 mt-1 fs-5"></fa-icon>
                   <div>
                     <h5>{{ 'CONTACT.INFO.PHONE' | translate }}</h5>
-                    <p>+971562163835</p>
+                    <p>971562163835</p>
                   </div>
                 </div>
                 

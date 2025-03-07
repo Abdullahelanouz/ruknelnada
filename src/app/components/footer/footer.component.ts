@@ -19,7 +19,7 @@ import { Service } from '../../models/service.model';
   ],
   template: `
     <footer class="footer pt-5">
-      <a href="https://wa.me/+2010644444467" class="whatsapp_float" target="_blank">
+      <a href="https://wa.me/971562163835" class="whatsapp_float" target="_blank">
         <fa-icon [icon]="faWhatsapp" class="whatsapp-icon"></fa-icon>
       </a>
       <a (click)="scrollToTop()" class="scroll-top">
@@ -35,7 +35,7 @@ import { Service } from '../../models/service.model';
             <div class="mt-3">
               <a href="https://www.facebook.com/profile.php?id=61573382494834&mibextid=ZbWKwL" target="_blank" class="social-icon"><fa-icon [icon]="faFacebook"></fa-icon></a>
               <a href="https://www.instagram.com/ruknelnada?igshid=MWhodW9ub3dyNGFrcw" target="_blank" class="social-icon"><fa-icon [icon]="faInstagram"></fa-icon></a>
-              <a href="https://wa.me/+2010644444467" target="_blank" class="social-icon"><fa-icon [icon]="faWhatsapp"></fa-icon></a>
+              <a href="https://wa.me/971562163835" target="_blank" class="social-icon"><fa-icon [icon]="faWhatsapp"></fa-icon></a>
             </div>
           </div>
           
@@ -68,15 +68,15 @@ import { Service } from '../../models/service.model';
             <ul class="list-unstyled">
               <li class="d-flex mb-3">
                 <fa-icon [icon]="faMapMarkerAlt" class="me-2 mt-1"></fa-icon>
-                <span>البدير، إمارة الشارقة، الإمارات العربية المتحدة</span>
+                <p>الشارقه ,عجمان, دبي, الإمارات العربية المتحدة</p>
               </li>
               <li class="d-flex mb-3">
                 <fa-icon [icon]="faPhone" class="me-2 mt-1"></fa-icon>
-                <span>+971562163835</span>
+                <a style="text-decoration: none; color: white" href="tel:+971562163835">+971562163835</a>
               </li>
               <li class="d-flex mb-3">
                 <fa-icon [icon]="faEnvelope" class="me-2 mt-1"></fa-icon>
-                <span>ruknelnada&#64;gmail.com</span>
+                <a style="text-decoration: none; color: white" href="mailto:ruknelnada@gmail.com">ruknelnada&#64;gmail.com</a>
               </li>
             </ul>
           </div>

@@ -37,6 +37,35 @@ import { Service } from '../../models/service.model';
                 </div>
               </li>
             </ul>
+            <h4 class="mb-3">{{ (service.translationKey + '.REASONS' | translate)[0] }}</h4>
+            <ul class="list-unstyled">
+              <li class="mb-2" *ngFor="let reason of service.translationKey + '.REASONS' | translate; let i = index" [hidden]="i === 0">
+                <div class="d-flex">
+                  <fa-icon [icon]="faCheck" class="text-primary-color me-2 mt-1"></fa-icon>
+                  <span>{{ reason | translate }}</span>
+                </div>
+              </li>
+            </ul>
+            <h4 class="mb-3">{{ (service.translationKey + '.IMPORTANCE' | translate)[0] }}</h4>
+            <p class="lead">{{ service.translationKey + '.IMPORTANCE' | translate }}</p>
+            <h4 class="mb-3">{{ (service.translationKey + '.ADDITIONAL_SERVICES' | translate)[0] }}</h4>
+            <ul class="list-unstyled">
+              <li class="mb-2" *ngFor="let additionalService of service.translationKey + '.ADDITIONAL_SERVICES' | translate; let i = index" [hidden]="i === 0">
+                <div class="d-flex">
+                  <fa-icon [icon]="faCheck" class="text-primary-color me-2 mt-1"></fa-icon>
+                  <span>{{ additionalService | translate }}</span>
+                </div>
+              </li>
+            </ul>
+            <h4 class="mb-3">{{(service.translationKey + '.FAQS' | translate)[0].Q | translate }}</h4>
+            <ul class="list-unstyled">
+              <li class="mb-2" *ngFor="let faq of service.translationKey + '.FAQS' | translate; let i = index" [hidden]="i === 0">
+                <div class="d-flex">
+                  <fa-icon [icon]="faCheck" class="text-primary-color me-2 mt-1"></fa-icon>
+                  <span>{{ faq.Q | translate }}: {{ faq.A | translate }}</span>
+                </div>
+              </li>
+            </ul>
           </div>
           
           <div class="col-lg-4">

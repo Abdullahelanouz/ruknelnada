@@ -15,70 +15,175 @@
     "CTA": "Our Services"
   },
   "SERVICES": {
-    "TITLE": "Our Services",
-    "SUBTITLE": "We offer a wide range of professional home services",
-    "KEY_FEATURES": "Key Features",
-    "OTHER_SERVICES": "Other Services",
-    "ELECTRICITY": {
-      "TITLE": "Electrical Services",
-      "SHORT_DESC": "Professional electrical services for your home",
-      "FULL_DESC": "Our team of certified electricians provides comprehensive electrical services including installation, repair, and maintenance for residential properties. We ensure safety and reliability in all our electrical work.",
-      "FEATURES": [
-        "Electrical installations",
-        "Repair and maintenance",
-        "Emergency services",
-        "Safety inspections",
-        "Lighting solutions"
-      ]
-    },
-    "PLUMBING": {
-      "TITLE": "Plumbing Services",
-      "SHORT_DESC": "Complete plumbing solutions for all needs",
-      "FULL_DESC": "Our plumbing services cover all aspects of home plumbing systems. From fixing leaks to installing new fixtures, our experienced plumbers deliver quality workmanship and reliable solutions.",
-      "FEATURES": [
-        "Pipe installation and repair",
-        "Fixture installation",
-        "Leak detection and repair",
-        "Water heater services",
-        "Bathroom and kitchen plumbing"
-      ]
-    },
-    "PAINTING": {
-      "TITLE": "Painting Services",
-      "SHORT_DESC": "Transform your space with professional painting",
-      "FULL_DESC": "Our painting services help transform your living spaces with high-quality paints and expert application. We offer interior and exterior painting with attention to detail and perfect finishes.",
-      "FEATURES": [
-        "Interior painting",
-        "Exterior painting",
-        "Color consultation",
-        "Surface preparation",
-        "Premium paint products"
-      ]
-    },
-    "DRAIN": {
-      "TITLE": "Drain Cleaning",
-      "SHORT_DESC": "Effective solutions for clogged drains",
-      "FULL_DESC": "Our drain cleaning services address all types of blockages and ensure proper water flow in your drainage systems. We use professional equipment and techniques to resolve even the most stubborn clogs.",
-      "FEATURES": [
-        "Clog removal",
-        "Drain snaking",
-        "Hydro jetting",
-        "Preventive maintenance",
-        "Camera inspection"
-      ]
-    },
-    "CLEANING": {
-      "TITLE": "Cleaning Services",
-      "SHORT_DESC": "Professional cleaning for sofas, carpets, and tanks",
-      "FULL_DESC": "Our specialized cleaning services cover sofas, carpets, and water tanks. We use eco-friendly cleaning products and advanced equipment to ensure thorough cleaning and sanitization.",
-      "FEATURES": [
-        "Deep sofa cleaning",
-        "Carpet cleaning and sanitization",
-        "Water tank cleaning",
-        "Stain removal",
-        "Deodorizing services"
-      ]
-    }
+  "TITLE": "Our Services",
+  "SUBTITLE": "We offer a wide range of professional home services to ensure your comfort and well-being. Our commitment is to deliver the highest quality and professionalism in all our work. Our trained team guarantees the execution of services with the utmost efficiency, whether in electricity, plumbing, painting, drainage, or cleaning. Our goal is to meet your needs with the best and safest solutions using the latest technologies and high-quality materials.",
+  "KEY_FEATURES": "Key Features",
+  "OTHER_SERVICES": "Other Services",
+  "ELECTRICITY": {
+    "TITLE": "Electrical Services",
+    "SHORT_DESC": "Professional electrical services for your home to ensure safety and efficiency in using electricity in a secure and reliable manner.",
+    "FULL_DESC": "Our team of certified electricians provides comprehensive electrical services, including installation, repair, and maintenance for residential and commercial properties. We ensure the delivery of integrated electrical solutions that maintain your safety and the safety of your home. We use the best guaranteed materials and the latest equipment to provide a risk-free experience. Our services include troubleshooting electrical faults, installing modern lighting, upgrading electrical panels to accommodate required loads, and setting up advanced electrical security systems to protect your home from electrical hazards.",
+    "FEATURES": [
+      "High-quality electrical installations following the latest global standards.",
+      "Repair and maintenance of all electrical systems by expert technicians.",
+      "24/7 emergency services to address any immediate issues.",
+      "Safety inspections to ensure no hidden electrical risks.",
+      "Advanced lighting solutions that improve energy efficiency and reduce electricity consumption."
+    ],
+    "REASONS": [
+      "Why do you need professional electrical services?",
+      "Electrical work requires skill and expertise to prevent potential hazards such as electrical fires or sudden power outages.",
+      "To ensure household appliances operate efficiently and reduce unnecessary energy consumption.",
+      "To protect all family members from electrical risks caused by improper wiring."
+    ],
+    "IMPORTANCE": [
+      "Electrical work requires precision and great expertise,",
+      "as any mistake can lead to serious hazards such as fires or damage to essential household appliances."
+    ],
+    "ADDITIONAL_SERVICES": [
+      "Additional services include:",
+      "Installing solar power systems to reduce electricity costs.",
+      "Designing and implementing internal and external electrical networks.",
+      "Installing security systems and surveillance cameras for enhanced safety."
+    ],
+    "FAQS": [
+      {"Q": "Do you offer emergency services?", "A": "Yes, we are available 24/7 to handle any urgent electrical issues promptly."},
+      {"Q": "Does your service include a warranty?", "A": "Absolutely! All our electrical services come with a warranty to ensure your peace of mind and confidence in our quality work."},
+      {"Q": "How can I improve energy efficiency in my home?", "A": "You can do this by installing smart lighting systems, using energy-efficient appliances, and taking advantage of our periodic electrical inspection services."}
+    ]
+  },
+  "PLUMBING": {
+    "TITLE": "Plumbing",
+    "SHORT_DESC": "Comprehensive plumbing solutions for all your needs, from minor repairs to advanced plumbing projects in homes and commercial buildings.",
+    "FULL_DESC": "Our plumbing services cover all aspects of home plumbing systems. We offer innovative and reliable solutions to ensure customer comfort. Whether you need new pipe installations, leak repairs, or maintenance for outdated plumbing systems, our team ensures precise and professional execution. We use the latest tools to correctly diagnose the problem and provide the best solution. Additionally, we offer consultations to ensure efficient water usage and eco-friendly solutions.",
+    "FEATURES": [
+      "High-quality pipe installation and repair to prevent leaks.",
+      "Installation of sanitary fixtures such as sinks, toilets, and bathtubs.",
+      "Leak detection and repair to prevent home damage.",
+      "Water heater services, including routine maintenance and replacement of faulty parts.",
+      "Advanced solutions for bathrooms and kitchens to ensure efficient water flow."
+    ],
+    "REASONS": [
+      "Why do you need professional plumbing services?",
+      "To prevent leaks that may cause wall or floor damage.",
+      "To ensure clean and healthy water free from impurities.",
+      "To optimize water consumption and reduce monthly bills."
+    ],
+    "IMPORTANCE": [
+      "Plumbing services require precision and specialized expertise,",
+      "as any mistake can lead to major leaks or health issues due to contaminated or unsafe water systems."
+    ],
+    "ADDITIONAL_SERVICES": [
+      "Additional services include:",
+      "Installation of water recycling systems to save used water.",
+      "Cleaning and maintenance of water tanks to preserve water quality.",
+      "Upgrading outdated plumbing systems to more modern and efficient solutions."
+    ],
+    "FAQS": [
+      {"Q": "Do you offer emergency services?", "A": "Yes, we are available 24/7 to handle any urgent plumbing failures."},
+      {"Q": "Does your service include a warranty?", "A": "Certainly, we provide a warranty on all our services to ensure customer satisfaction and trust in our quality work."},
+      {"Q": "How can I prevent blockages in my home’s pipes?", "A": "We recommend avoiding disposing of solid waste in sinks, cleaning drains regularly, and taking advantage of our periodic inspection services."}
+    ]
+  },
+  "DRAIN": {
+"TITLE": "Drainage Services",
+"SHORT_DESC": "Effective solutions for clogged drainage systems.",
+"FULL_DESC": "Our drainage cleaning services handle all types of blockages, ensuring proper water flow. We use professional equipment and advanced techniques to resolve even the most stubborn clogs. Our expert team conducts thorough inspections, provides preventive maintenance, and guarantees long-lasting solutions to avoid recurring drainage issues. Whether it’s residential or commercial, we ensure a seamless and efficient drainage system for your property.",
+"FEATURES": [
+"Clog removal for blocked drains.",
+"High-pressure water jetting for deep cleaning.",
+"Preventive maintenance to avoid future blockages.",
+"Camera inspections to diagnose hidden drainage issues.",
+"Sewer line cleaning to maintain a smooth flow."
+],
+"REASONS": [
+"Why do you need professional drainage services?",
+"To ensure reliable operation and prevent potential health hazards caused by blocked drains.",
+"To avoid unpleasant odors and water damage due to standing water."
+],
+"IMPORTANCE": [
+"Drainage services require precision and expertise,",
+"as any mistake can lead to severe water damage and costly repairs."
+],
+"ADDITIONAL_SERVICES": [
+"Additional services include:",
+"Installation of advanced drainage systems.",
+"Sewer line inspections and repairs.",
+"Installation of drainage alarms for early detection of blockages."
+],
+"FAQS": [
+{"Q": "Do you offer emergency drainage services?", "A": "Yes, we are available 24/7 for emergency drainage solutions."},
+{"Q": "Does your service include a warranty?", "A": "Yes, all our drainage services come with a warranty to ensure your satisfaction."}
+]
+},
+"CLEANING": {
+"TITLE": "Cleaning Services",
+"SHORT_DESC": "Professional cleaning for sofas, carpets, and water tanks.",
+"FULL_DESC": "Our specialized cleaning services cover sofas, carpets, and water tanks. We use eco-friendly cleaning products and advanced equipment to ensure deep cleaning and full sanitation. Our team is highly trained to remove tough stains, eliminate odors, and provide long-lasting freshness. Whether you need a one-time deep clean or regular maintenance, we guarantee top-quality service tailored to your needs.",
+"FEATURES": [
+"Deep cleaning for sofas to restore their original look.",
+"Carpet cleaning and disinfection to remove dirt and allergens.",
+"Water tank cleaning to ensure safe and hygienic water storage.",
+"Stain removal using safe and effective techniques.",
+"Odor removal services for a fresher indoor environment."
+],
+"REASONS": [
+"Why do you need professional cleaning services?",
+"To maintain a clean and hygienic home environment.",
+"To remove stubborn stains and unpleasant odors.",
+"To enhance the longevity and appearance of your furniture and carpets.",
+"To eliminate dust, bacteria, and other harmful pollutants from your living space."
+],
+"IMPORTANCE": [
+"Cleaning services require attention to detail and expertise,",
+"as improper cleaning can lead to fabric damage or ineffective sanitation."
+],
+"ADDITIONAL_SERVICES": [
+"Additional services include:",
+"Installation of air purification systems for healthier indoor air.",
+"Upholstery protection treatments to prevent stains.",
+"Regular maintenance packages for long-term cleanliness."
+],
+"FAQS": [
+{"Q": "Do you offer emergency cleaning services?", "A": "Yes, we are available 24/7 for urgent cleaning requests."},
+{"Q": "Does your service include a warranty?", "A": "Yes, we provide a guarantee on all our cleaning services."},
+{"Q": "What other services do you offer?", "A": "We provide a variety of home services, including electrical work, plumbing, and more. Visit our services page to learn more."}
+]
+},
+"PAINTING": {
+  "TITLE": "Painting Services",
+  "SHORT_DESC": "Professional painting solutions for a beautiful and refreshed home.",
+  "FULL_DESC": "Our painting services are designed to transform your living spaces with high-quality paints and expert application techniques. We offer both interior and exterior painting services, ensuring precision, durability, and an aesthetically pleasing finish. Our team of skilled painters works with attention to detail, preparing surfaces thoroughly, choosing the right colors to match your vision, and applying professional coatings that stand the test of time. Whether you are looking for a modern refresh or a classic touch, we deliver outstanding results that enhance the beauty and value of your home or business.",
+  "FEATURES": [
+  "Interior painting for walls, ceilings, and decorative finishes.",
+  "Exterior painting to protect and beautify your property.",
+  "Expert color consultation to achieve the perfect look.",
+  "Surface preparation, including sanding, priming, and patching.",
+  "High-quality, durable paint products for long-lasting results."
+  ],
+  "REASONS": [
+  "Why do you need professional painting services?",
+  "To refresh and enhance the appearance of your home or office.",
+  "To protect surfaces from weather conditions and everyday wear.",
+  "To increase the value of your property with a high-quality finish.",
+  "To ensure an even, streak-free, and professional paint application."
+  ],
+  "IMPORTANCE": [
+  "Painting requires skill, precision, and the right materials,",
+  "as improper application can lead to uneven coverage, peeling, or fading over time."
+  ],
+  "ADDITIONAL_SERVICES": [
+  "Additional services include:",
+  "Wallpaper installation and removal for customized interiors.",
+  "Decorative painting and texture finishes for unique styles.",
+  "Protective coatings to enhance durability and prevent stains."
+  ],
+  "FAQS": [
+  {"Q": "Do you offer color consultation services?", "A": "Yes, our experts help you choose the best color combinations to suit your space and preferences."},
+  {"Q": "How long does a painting project take?", "A": "The duration depends on the size and complexity of the project. We ensure timely and efficient completion without compromising quality."},
+  {"Q": "Do you provide eco-friendly paint options?", "A": "Yes, we offer a selection of low-VOC and environmentally friendly paints for healthier indoor air quality."}
+  ]
+  }
   },
   "TESTIMONIALS": {
     "TITLE": "What Our Clients Say",
@@ -126,5 +231,26 @@
     "TITLE": "Request Service",
     "SUBTITLE": "Contact us to request this service or get more information.",
     "CTA": "Request Now"
-  }
-}
+  },
+  "WHY_US": {
+    "TITLE": "Why Choose Rukn Al Nada?",
+    "SUBTITLE": "We offer features that set us apart from other companies. Here are some of them:",
+    "TEAM": {
+        "TITLE": "Our Team",
+        "DESC": "We hire qualified and experienced professionals to ensure top-quality services."
+      },
+      "SPEED": {
+        "TITLE": "Speed",
+        "DESC": "We complete all tasks quickly while maintaining the highest service quality."
+      },
+      "PRICE": {
+        "TITLE": "Affordable Prices",
+        "DESC": "We provide ongoing discounts and offers of up to 40%."
+      },
+      "QUALITY": {
+        "TITLE": "Quality",
+        "DESC": "Our goal is to provide high-quality services to earn your trust in all home services."
+      }
+    }
+}  
+

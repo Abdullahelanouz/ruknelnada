@@ -42,6 +42,7 @@ import { ServicesService, Service } from '../../services/services.service';
         </svg>
       </div>
     </section>
+    
 
     <!-- Services Section -->
     <section id="services" class="py-5">
@@ -102,7 +103,7 @@ import { ServicesService, Service } from '../../services/services.service';
                             <fa-icon [icon]="faStar"></fa-icon>
                             <fa-icon [icon]="faStar"></fa-icon>
                           </div>
-                          <small class="text-muted">Riyadh</small>
+                          <small class="text-muted">الشارقه</small>
                         </div>
                       </div>
                     </div>
@@ -126,7 +127,7 @@ import { ServicesService, Service } from '../../services/services.service';
                             <fa-icon [icon]="faStar"></fa-icon>
                             <fa-icon [icon]="faStar"></fa-icon>
                           </div>
-                          <small class="text-muted">Jeddah</small>
+                          <small class="text-muted">الشارقه</small>
                         </div>
                       </div>
                     </div>
@@ -150,7 +151,7 @@ import { ServicesService, Service } from '../../services/services.service';
                             <fa-icon [icon]="faStar"></fa-icon>
                             <fa-icon [icon]="faStar"></fa-icon>
                           </div>
-                          <small class="text-muted">Dammam</small>
+                          <small class="text-muted">الشارقه</small>
                         </div>
                       </div>
                     </div>

@@ -93,7 +93,7 @@ import { faMapMarkerAlt, faPhone, faEnvelope, faPaperPlane } from '@fortawesome/
                 </div>
                 <div>
                   <h5>{{ 'CONTACT.ADDRESS' | translate }}</h5>
-                  <p class="mb-0">البدير، إمارة الشارقة، الإمارات العربية المتحدة</p>
+                  <p class="mb-0">الشارقه ,عجمان, دبي</p>
                 </div>
               </div>
               
