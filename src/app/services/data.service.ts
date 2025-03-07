@@ -10,7 +10,7 @@ export class DataService {
     {
       id: 'electricity',
       icon: 'bolt',
-      imageUrl: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      imageUrl: 'assets/images/electricity.webp',
       translationKey: 'SERVICES.ELECTRICITY'
     },
     {
@@ -34,7 +34,7 @@ export class DataService {
     {
       id: 'cleaning',
       icon: 'broom',
-      imageUrl: 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      imageUrl: 'assets/images/clean.webp',
       translationKey: 'SERVICES.CLEANING'
     },
    
