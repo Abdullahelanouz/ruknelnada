@@ -76,6 +76,32 @@ import { TranslationService } from '../../services/translation.service';
                   {{ 'NAV.CONTACT' | translate }}
                 </a>
               </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="importantServicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  {{ 'NAV.IMPORTANT_SERVICES' | translate }}
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="importantServicesDropdown">
+                  <li><a class="dropdown-item" routerLink="/services/electricity">{{ 'NAV.ELECTRICITY_SERVICES_IN_DUBAI' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/electricity/">{{ 'NAV.ELECTRICITY_SERVICES_IN_SHARJAH' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/electricity/">{{ 'NAV.ELECTRICITY_SERVICES_IN_AJMAN' | translate }}</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" routerLink="/services/plumbing">{{ 'NAV.PLUMBING_SERVICES_IN_DUBAI' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/plumbing">{{ 'NAV.PLUMBING_SERVICES_IN_SHARJAH' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/plumbing">{{ 'NAV.PLUMBING_SERVICES_IN_AJMAN' | translate }}</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" routerLink="/services/painting">{{ 'NAV.PAINTING_SERVICES_IN_DUBAI' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/painting">{{ 'NAV.PAINTING_SERVICES_IN_SHARJAH' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/painting">{{ 'NAV.PAINTING_SERVICES_IN_AJMAN' | translate }}</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" routerLink="/services/drain">{{ 'NAV.DRAIN_CLEANING_SERVICES_IN_DUBAI' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/drain">{{ 'NAV.DRAIN_CLEANING_SERVICES_IN_SHARJAH' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/drain">{{ 'NAV.DRAIN_CLEANING_SERVICES_IN_AJMAN' | translate }}</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" routerLink="/services/cleaning">{{ 'NAV.CLEANING_SERVICES_IN_DUBAI' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/cleaning">{{ 'NAV.CLEANING_SERVICES_IN_SHARJAH' | translate }}</a></li>
+                  <li><a class="dropdown-item" routerLink="/services/cleaning">{{ 'NAV.CLEANING_SERVICES_IN_AJMAN' | translate }}</a></li>
+                </ul>
+              </li>
             </ul>
           </div>
         </div>

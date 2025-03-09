@@ -188,6 +188,12 @@ import { Testimonial } from '../../models/testimonial.model';
                   <div>
                     <h5>{{ 'CONTACT.INFO.PHONE' | translate }}</h5>
                     <a style="text-decoration: none; color: white" href="tel:+971562163835">+971562163835</a>
+                    <br>
+                    <a style="text-decoration: none; color: white" href="tel:+0555390334">+0555390334</a>
+                    <br>
+                    <a style="text-decoration: none; color: white" href="tel:+0562163831">+0562163831</a>
+                    <br>
+                    <a style="text-decoration: none; color: white" href="tel:+0562163841">+0562163841</a>
                   </div>
                 </div>
                 

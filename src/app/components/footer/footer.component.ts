@@ -73,6 +73,7 @@ import { Service } from '../../models/service.model';
               <li class="d-flex mb-3">
                 <fa-icon [icon]="faPhone" class="me-2 mt-1"></fa-icon>
                 <a style="text-decoration: none; color: white" href="tel:+971562163835">+971562163835</a>
+                
               </li>
               <li class="d-flex mb-3">
                 <fa-icon [icon]="faEnvelope" class="me-2 mt-1"></fa-icon>

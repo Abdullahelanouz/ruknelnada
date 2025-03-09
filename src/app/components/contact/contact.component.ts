@@ -91,7 +91,13 @@ import { faMapMarkerAlt, faPhone, faEnvelope } from '@fortawesome/free-solid-svg
                   <fa-icon [icon]="faPhone" class="me-3 mt-1 fs-5"></fa-icon>
                   <div>
                     <h5>{{ 'CONTACT.INFO.PHONE' | translate }}</h5>
-                    <p>971562163835</p>
+                    <a style="text-decoration: none; color: white" href="tel:+971562163835">+971562163835</a>
+                    <br>
+                    <a style="text-decoration: none; color: white" href="tel:+0555390334">+0555390334</a>
+                    <br>
+                    <a style="text-decoration: none; color: white" href="tel:+0562163831">+0562163831</a>
+                    <br>
+                    <a style="text-decoration: none; color: white" href="tel:+0562163841">+0562163841</a>
                   </div>
                 </div>
                 
